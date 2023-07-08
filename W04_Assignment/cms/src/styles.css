@@ -1,0 +1,12 @@
+.vcenter {
+  display: inline-block;
+  vertical-align: middle;
+  float: none;
+}
+
+.btn,
+.btn-lg,
+.btn-md,
+.btn-sm {
+  margin: 0.2rem;
+}
