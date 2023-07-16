@@ -1,0 +1,363 @@
+[
+    {
+      "type": "Mulligan Stew à la Cube",
+      "pokemon": "Random",
+      "qualities": [
+        {
+            "quality": "Normal",
+            "ingredients": ["Tiny Mushroom","Tiny Mushroom", "Fossil", "Fossil", "Fossil"]
+        },
+        {
+            "quality": "Good",
+            "ingredients": ["Tiny Mushroom", "Tiny Mushroom", "Bulk Berry", "Apricorn", "Honey"]
+        },
+        {
+            "quality": "Very Good",
+            "ingredients": ["Tiny Mushroom", "Bulk Berry", "Big Root", "Icy Rock", "Honey"]
+        },
+        {
+            "quality": "Special",
+            "ingredients": ["Balm Mushroom", "Balm Mushroom", "Balm Mushroom", "Icy Rock", "Honey"]
+        }
+      ]
+    },
+    {
+        "type": "Red Stew à la Cube",
+        "pokemon": "Red",
+        "qualities": [
+        {
+            "quality": "Normal",
+            "ingredients": ["Tiny Mushroom", "Tiny Mushroom", "Tiny Mushroom", "Tiny Mushroom", "Tiny Mushroom"]
+        },
+        {
+            "quality": "Good",
+            "ingredients": ["Tiny Mushroom", "Tiny Mushroom", "Tiny Mushroom", "Tiny Mushroom", "Balm Mushroom"]
+        },
+        {
+            "quality": "Very Good",
+            "ingredients": ["Tiny Mushroom", "Tiny Mushroom", "Big Root", "Big Root", "Balm Mushroom"]
+        },
+        {
+            "quality": "Special",
+            "ingredients": ["Big Root", "Big Root", "Big Root", "Big Root","Big Root"]
+        }
+      ]
+    },
+    {
+        "type": "Blue Soda à la Cube",
+        "pokemon": "Blue",
+        "qualities": [
+        {
+            "quality": "Normal",
+            "ingredients": ["Bulk Berry", "Bulk Berry", "Bulk Berry", "Bulk Berry", "Bulk Berry"]
+        },
+        {
+            "quality": "Good",
+            "ingredients": ["Bulk Berry", "Bulk Berry", "Bulk Berry", "Bulk Berry", "Balm Mushroom"]
+        },
+        {
+            "quality": "Very Good",
+            "ingredients": ["Bulk Berry", "Bulk Berry", "Icy Rock", "Icy Rock", "Balm Mushroom"]
+        },
+        {
+            "quality": "Special",
+            "ingredients": ["Icy Rock", "Icy Rock", "Icy Rock", "Icy Rock", "Balm Mushroom"]
+        }
+      ]
+    },
+    {
+        "type": "Yellow Curry à la Cube",
+        "pokemon": "Yellow",
+        "qualities": [
+        {
+            "quality": "Normal",
+            "ingredients": ["Apricorn", "Apricorn", "Apricorn", "Apricorn", "Apricorn"]
+        },
+        {
+            "quality": "Good",
+            "ingredients": ["Apricorn", "Apricorn", "Apricorn", "Apricorn","Big Root"]
+        },
+        {
+            "quality": "Very Good",
+            "ingredients": ["Apricorn", "Apricorn", "Honey", "Honey", "Big Root"]
+        },
+        {
+            "quality": "Special",
+            "ingredients": ["Honey", "Honey", "Honey", "Honey", "Big Root"]
+        }
+      ]
+    },
+    {
+        "type": "Gray Porridge à la Cube",
+        "pokemon": "Gray",
+        "qualities": [
+        {
+            "quality": "Normal",
+            "ingredients": ["Fossil", "Fossil", "Fossil", "Fossil", "Fossil"]
+        },
+        {
+            "quality": "Good",
+            "ingredients": ["Fossil", "Fossil", "Fossil", "Fossil", "Icy Rock"]
+        },
+        {
+            "quality": "Very Good",
+            "ingredients": ["Fossil", "Fossil", "Balm Mushroom", "Balm Mushroom", "Icy Rock"]
+        },
+        {
+            "quality": "Special",
+            "ingredients": ["Balm Mushroom", "Balm Mushroom", "Balm Mushroom", "Balm Mushroom", "Icy Rock"]
+        }
+      ]
+    },
+    {
+        "type": "Mouth-Watering Dip à la Cube",
+        "pokemon": "Water",
+        "qualities": [
+        {
+            "quality": "Normal",
+            "ingredients": ["Tiny Mushroom", "Apricorn", "Bulk Berry", "Bulk Berry", "Bulk Berry"]
+        },
+        {
+            "quality": "Good",
+            "ingredients": ["Bulk Berry", "Bulk Berry", "Bulk Berry", "Apricorn", "Balm Mushroom"]
+        },
+        {
+            "quality": "Very Good",
+            "ingredients": ["Bulk Berry", "Bulk Berry", "Icy Rock", "Balm Mushroom", "Balm Mushroom"]
+        },
+        {
+            "quality": "Special",
+            "ingredients": ["Icy Rock", "Icy Rock", "Icy Rock", "Balm Mushroom", "Balm Mushroom"]
+        }
+      ]
+    },
+    {
+        "type": "Plain Crepe à la Cube",
+        "pokemon": "Normal",
+        "qualities": [
+        {
+            "quality": "Normal",
+            "ingredients": ["Bulk Berry", "Bulk Berry", "Bulk Berry", "Fossil", "Fossil"]
+        },
+        {
+            "quality": "Good",
+            "ingredients": ["Bulk Berry", "Bulk Berry", "Fossil", "Fossil", "Honey"]
+        },
+        {
+            "quality": "Very Good",
+            "ingredients": ["Bulk Berry", "Bulk Berry", "Honey", "Balm Mushroom", "Balm Mushroom"]
+        },
+        {
+            "quality": "Special",
+            "ingredients": ["Honey", "Honey", "Honey", "Balm Mushroom", "Balm Mushroom"]
+        }
+      ]
+    },
+    {
+        "type": "Sludge Soup à la Cube",
+        "pokemon": "Poison",
+        "qualities": [
+        {
+            "quality": "Good",
+            "ingredients": ["Tiny Mushroom", "Tiny Mushroom", "Tiny Mushroom", "Fossil", "Balm Mushroom"]
+        },
+        {
+            "quality": "Very Good",
+            "ingredients": ["Tiny Mushroom", "Tiny Mushroom", "Balm Mushroom", "Balm Mushroom", "Icy Rock"]
+        },
+        {
+            "quality": "Special",
+            "ingredients": ["Rainbow Matter", "Balm Mushroom", "Balm Mushroom", "Balm Mushroom", "Tiny Mushroom"]
+        }
+      ]
+    },
+    {
+        "type": "Mud Pie à la Cube",
+        "pokemon": "Ground",
+        "qualities": [
+        {
+            "quality": "Normal",
+            "ingredients": ["Tiny Mushroom", "Tiny Mushroom", "Tiny Mushroom", "Fossil", "Fossil"]
+        },
+        {
+            "quality": "Good",
+            "ingredients": ["Bulk Berry", "Bulk Berry", "Fossil", "Fossil", "Balm Mushroom"]
+        },
+        {
+            "quality": "Very Good",
+            "ingredients": ["Fossil", "Fossil", "Big Root", "Big Root", "Balm Mushroom"]
+        },
+        {
+            "quality": "Special", 
+            "ingredients": ["Icy Rock", "Icy Rock", "Balm Mushroom", "Balm Mushroom", "Balm Mushroom"]
+        }
+      ]
+    },
+    {
+        "type": "Veggie Smoothie à la Cube",
+        "pokemon": "Grass",
+        "qualities": [
+        {
+            "quality": "Good",
+            "ingredients": ["Tiny Mushroom", "Apricorn", "Apricorn", "Apricorn", "Big Root"]
+        },
+        {
+            "quality": "Very Good",
+            "ingredients": ["Apricorn", "Apricorn", "Big Root", "Big Root", "Big Root"]
+        },
+        {
+            "quality": "Special",
+            "ingredients": ["Rainbow Matter", "Big Root", "Big Root", "Big Root", "Apricorn"]
+        }
+      ]
+    },
+    {
+        "type": "Honey Nectar à la Cube",
+        "pokemon": "Bug",
+        "qualities": [
+        {
+            "quality": "Good",
+            "ingredients": ["Bulk Berry", "Bulk Berry", "Honey", "Honey", "Apricorn"]
+        },
+        {
+            "quality": "Very Good",
+            "ingredients": ["Honey", "Honey", "Honey", "Bulk Berry", "Bulk Berry"]
+        },
+        {
+            "quality": "Special",
+            "ingredients": ["Honey", "Honey", "Honey", "Bulk Berry", "Rainbow Matter"]
+        }
+      ]
+    },
+    {
+        "type": "Brain Food à la Cube",
+        "pokemon": "Psychic",
+        "qualities": [
+        {
+            "quality": "Normal",
+            "ingredients": ["Bulk Berry", "Bulk Berry", "Bulk Berry", "Apricorn", "Apricorn"]
+        },
+        {
+            "quality": "Good",
+            "ingredients": ["Bulk Berry", "Bulk Berry", "Apricorn", "Apricorn", "Honey"]
+        },
+        {
+            "quality": "Very Good",
+            "ingredients": ["Bulk Berry", "Apricorn", "Icy Rock", "Honey", "Honey"]
+        }
+      ]
+    },
+    {
+        "type": "Stone Soup à la Cube",
+        "pokemon": "Rock",
+        "qualities": [
+        {
+            "quality": "Normal",
+            "ingredients": ["Apricorn", "Apricorn", "Apricorn", "Fossil", "Fossil"]
+        },
+        {
+            "quality": "Good",
+            "ingredients": ["Balm Mushroom", "Fossil", "Fossil", "Apricorn", "Apricorn"]
+        },
+        {
+            "quality": "Very Good",
+            "ingredients": ["Balm Mushroom", "Icy Rock", "Icy Rock", "Fossil", "Fossil"]
+        },
+        {
+            "quality": "Special",
+            "ingredients": ["Rainbow Matter", "Icy Rock", "Icy Rock", "Icy Rock", "Apricorn"]
+        }
+      ]
+    },
+    {
+        "type": "Light-as-Air Casserole à la Cube",
+        "pokemon": "Flying",
+        "qualities": [
+        {
+            "quality": "Good",
+            "ingredients": ["Big Root", "Big Root", "Fossil", "Fossil", "Fossil"]
+        },
+        {
+            "quality": "Very Good",
+            "ingredients": ["Fossil", "Fossil", "Big Root", "Big Root", "Icy Rock"]
+        },
+        {
+            "quality": "Special",
+            "ingredients": ["Icy Rock", "Icy Rock", "Icy Rock", "Big Root", "Big Root"]
+        }
+      ]
+    },
+    {
+        "type": "Hot Pot à la Cube",
+        "pokemon": "Fire",
+        "qualities": [
+        {
+            "quality": "Normal",
+            "ingredients": ["Apricorn", "Apricorn", "Tiny Mushroom", "Tiny Mushroom", "Tiny Mushroom"]
+        },
+        {
+            "quality": "Good",
+            "ingredients": ["Balm Mushroom", "Apricorn", "Apricorn", "Tiny Mushroom", "Tiny Mushroom"]
+        },
+        {
+            "quality": "Very Good",
+            "ingredients": ["Balm Mushroom", "Balm Mushroom", "Big Root", "Bulk Berry", "Tiny Mushroom"]
+        },
+        {
+            "quality": "Special",
+            "ingredients": ["Balm Mushroom", "Balm Mushroom", "Balm Mushroom", "Big Root", "Big Root"]
+        }
+      ]
+    },
+    {
+        "type": "Watt a Risotto à la Cube",
+        "pokemon": "Electric",
+        "qualities": [
+        {
+            "quality": "Good",
+            "ingredients": ["Tiny Mushroom", "Tiny Mushroom", "Apricorn", "Honey", "Honey"]
+        },
+        {
+            "quality": "Very Good",
+            "ingredients": ["Tiny Mushroom", "Apricorn", "Big Root", "Honey", "Honey"]
+        },
+        {
+            "quality": "Special",
+            "ingredients": ["Big Root", "Big Root", "Honey", "Honey", "Honey"]
+        }
+      ]
+    },
+    {
+        "type": "Get Swole Syrup à la Cube",
+        "pokemon": "Fighting",
+        "qualities": [
+        {
+            "quality": "Good",
+            "ingredients": ["Tiny Mushroom", "Tiny Mushroom", "Bulk Berry", "Honey", "Honey"]
+        },
+        {
+            "quality": "Very Good",
+            "ingredients": ["Tiny Mushroom", "Bulk Berry", "Balm Mushroom", "Honey", "Honey"]
+        }
+      ]
+    },
+    {
+        "type": "Ambrosia of Legends à la Cube",
+        "pokemon": "Legendary",
+        "qualities": [
+        {
+            "quality": "Good",
+            "ingredients": ["Tiny Mushroom", "Tiny Mushroom", "Bulk Berry", "Bulk Berry", "Mystical Shell"]
+        },
+        {
+            "quality": "Very Good",
+            "ingredients": ["Fossil", "Fossil", "Fossil", "Rainbow Matter", "Mystical Shell"]
+        },
+        {
+            "quality": "Special",
+            "ingredients": ["Apricorn", "Big Root", "Big Root", "Rainbow Matter", "Mystical Shell"]
+        }
+      ]
+    }
+  ]
+  
