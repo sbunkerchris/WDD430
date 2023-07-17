@@ -1,0 +1,26 @@
+[
+    {
+        "type": "Mulligan Stew à la Cube",
+        "pokemon": "Random",
+        "qualitiy": "Normal",
+        "ingredients": ["Tiny Mushroom","Tiny Mushroom", "Fossil", "Fossil", "Fossil"]
+    },
+    {
+        "type": "Mulligan Stew à la Cube",
+        "pokemon": "Random",
+        "qualitiy": "Good",
+        "ingredients": ["Tiny Mushroom", "Tiny Mushroom", "Bulk Berry", "Apricorn", "Honey"]
+    },
+    {
+        "type": "Mulligan Stew à la Cube",
+        "pokemon": "Random",
+        "qualitiy": "Special",
+        "ingredients": ["Tiny Mushroom", "Bulk Berry", "Big Root", "Icy Rock", "Honey"]
+    },
+    {
+        "type": "Mulligan Stew à la Cube",
+        "pokemon": "Random",
+        "qualitiy": "Very Good",
+        "ingredients": ["Balm Mushroom", "Balm Mushroom", "Balm Mushroom", "Icy Rock", "Honey"]
+    }
+]
